@@ -1,0 +1,6 @@
+C:\Users\mihai\source\repos\ClassLibrary_market\ClassLibrary_market\bin\Debug\ClassLibrary_market.dll
+C:\Users\mihai\source\repos\ClassLibrary_market\ClassLibrary_market\bin\Debug\ClassLibrary_market.pdb
+C:\Users\mihai\source\repos\ClassLibrary_market\ClassLibrary_market\obj\Debug\ClassLibrary_market.csproj.AssemblyReference.cache
+C:\Users\mihai\source\repos\ClassLibrary_market\ClassLibrary_market\obj\Debug\ClassLibrary_market.csproj.CoreCompileInputs.cache
+C:\Users\mihai\source\repos\ClassLibrary_market\ClassLibrary_market\obj\Debug\ClassLibrary_market.dll
+C:\Users\mihai\source\repos\ClassLibrary_market\ClassLibrary_market\obj\Debug\ClassLibrary_market.pdb

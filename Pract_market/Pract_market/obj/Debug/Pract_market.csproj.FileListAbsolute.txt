@@ -1,0 +1,11 @@
+C:\Users\mihai\source\repos\Pract_market\Pract_market\bin\Debug\Pract_market.exe.config
+C:\Users\mihai\source\repos\Pract_market\Pract_market\bin\Debug\Pract_market.exe
+C:\Users\mihai\source\repos\Pract_market\Pract_market\bin\Debug\Pract_market.pdb
+C:\Users\mihai\source\repos\Pract_market\Pract_market\obj\Debug\Pract_market.csproj.AssemblyReference.cache
+C:\Users\mihai\source\repos\Pract_market\Pract_market\obj\Debug\Pract_market.csproj.SuggestedBindingRedirects.cache
+C:\Users\mihai\source\repos\Pract_market\Pract_market\obj\Debug\Pract_market.Form1.resources
+C:\Users\mihai\source\repos\Pract_market\Pract_market\obj\Debug\Pract_market.Properties.Resources.resources
+C:\Users\mihai\source\repos\Pract_market\Pract_market\obj\Debug\Pract_market.csproj.GenerateResource.cache
+C:\Users\mihai\source\repos\Pract_market\Pract_market\obj\Debug\Pract_market.csproj.CoreCompileInputs.cache
+C:\Users\mihai\source\repos\Pract_market\Pract_market\obj\Debug\Pract_market.exe
+C:\Users\mihai\source\repos\Pract_market\Pract_market\obj\Debug\Pract_market.pdb
